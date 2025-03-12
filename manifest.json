@@ -1,0 +1,8 @@
+{
+  "domain": "sip_and_smoke_tracker",
+  "name": "Sip And Smoke Tracker",
+  "version": "1.0.0",
+  "requirements": [],
+  "config_flow": true
+}
+
