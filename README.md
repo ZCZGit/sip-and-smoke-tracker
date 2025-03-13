@@ -1,4 +1,4 @@
-# **Sip and Smoke Tracker - Custom Home Assistant Component**
+# **Sip and Smoke Tracker**
 
 The **Sip and Smoke Tracker** is a custom Home Assistant component designed to help you manage an inventory of alcoholic beverages, coffees and cigars. This component allows you to keep track of your collection, log attributes like age, origin, flavor profiles, and provide a structured inventory view through sensors.
 
