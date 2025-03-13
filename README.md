@@ -67,7 +67,7 @@ A custom card to display devices added via this integration.
 
 **[sip-and-smoke-tracker-consumables-card](https://github.com/ZCZGit/sip-and-smoke-tracker-consumables-card)**
 
-A custom card which scrapes the `sip-and-smoke-tracker` integration and dynamically populates nested `sip-and-smoke-tracker-consumables-cards` based on consumable type.
+A custom card which scrapes this integration and dynamically populates nested `sip-and-smoke-tracker-consumables-cards` based on consumable type.
 
 **[sip-and-smoke-tracker-card](https://github.com/ZCZGit/sip-and-smoke-tracker-card)**
 
