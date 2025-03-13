@@ -65,11 +65,11 @@ Entitys in this integration can be permanently changed if required by navigating
 ## **Display Cards**
 A custom card to display devices added via this integration.
 
-**[sip-and-smoke-tracker-consumables-card](https://gitea-rpiprd.zcznet.uk/gitchadmin/sip-and-smoke-tracker-consumables-card)**
+**[sip-and-smoke-tracker-consumables-card](https://github.com/ZCZGit/sip-and-smoke-tracker-consumables-card)**
 
 A custom card which scrapes the `sip-and-smoke-tracker` integration and dynamically populates nested `sip-and-smoke-tracker-consumables-cards` based on consumable type.
 
-**[sip-and-smoke-card](https://gitea-rpiprd.zcznet.uk/gitchadmin/sip-and-smoke-card)**
+**[sip-and-smoke-tracker-card](https://github.com/ZCZGit/sip-and-smoke-tracker-card)**
 
 ## **File Overview**
 
